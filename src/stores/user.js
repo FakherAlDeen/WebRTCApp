@@ -244,7 +244,7 @@ export const UserStore = defineStore({
       this.friends = [];
       this.request = [];
       this.serverans=null;
-      window.location.replace('https://fakhermeets.13.development.maqsam.com/login')
+      window.location.replace('http://localhost:5173/login')
     },Set_Credent_Google(data,token){
       this.google = true;
       this.logged = true;
