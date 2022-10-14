@@ -8,7 +8,7 @@ import ModalFriend from '../components/ModalForFriend.vue';
 import Modal from '../components/ModalInfo.vue';
 import { invokeArrayFns } from "@vue/shared";
 
-const baseUrl = "https://fakher.13.development.maqsam.com"
+const baseUrl = "http://localhost:2023"
 UserStore().pageImIn='List'
 
 if(!UserStore().IsAGuest){

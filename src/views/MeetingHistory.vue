@@ -27,10 +27,10 @@
       })
   }
   function login(){
-      window.location.replace('https://fakhermeets.13.development.maqsam.com:5173/login')
+      window.location.replace('http://localhost:5173/login')
   }
   function signup(){
-      window.location.replace('https://fakhermeets.13.development.maqsam.com:5173/signup')
+      window.location.replace('http://localhost:5173/signup')
   }
   </script>
   

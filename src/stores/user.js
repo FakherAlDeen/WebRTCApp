@@ -7,7 +7,7 @@ import { v4 as uuidv4 } from "uuid";
 import { io } from "socket.io-client";
 
 
-const baseUrl = "https://fakher.13.development.maqsam.com"
+const baseUrl = "http://localhost:2023"
 
 function setJwtToken(token) {
   sessionStorage.setItem("jwt", token)
