@@ -2,7 +2,7 @@
 
 This template should help get you started developing with Vue 3 in Vite.
 The dark mode is not implemented yet! 
-and there's some responsive issues since the project was just a prof of concept.
+and there's some responsive issues since the project was just a proof of concept.
 made by Fakher Al Deen!
 
 
