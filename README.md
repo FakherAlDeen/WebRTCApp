@@ -1,19 +1,29 @@
-# finalfinal
+# WebRTC video app and document sharing!
 
 This template should help get you started developing with Vue 3 in Vite.
+The dark mode is not implemented yet so make sure to make ur browser in the light mode!
 
-## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 
 ## Customize configuration
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).
 
+## Customize configuration
+to use the PWA make sure to build the app first!
+
 ## Project Setup
 
 ```sh
-npm install
+npm install for the vue app then npm install for the serverWebsocket
+```
+
+```sh
+use node index.js to turn on the node js server and node server.js to turn the other one!
+```
+
+```sh
+change the mongodb connection and don't forget to install mongodb since we're using the local one!
 ```
 
 ### Compile and Hot-Reload for Development
